@@ -193,21 +193,21 @@ flights %>%
 
 
 
-Tips for keeping your code organized and avoiding errors
-Read the documentation!
-  
-Know what the functions you use actually do.
-Read package vignettes.
-Practice!
-  
-The more you engage with R programming the more proficient you will become. With time, handling error messages will become second nature.
-Keep your code neat and clean. You can do this by following a style guide, for example, the tidyverse style guide.
-
-If you use RStudio, you can use ctrl + shift + A to reformat code.
-See this resource on Coding Etiquette for styling tips.
-Include organized code blocks with coding sections (# Name of Section ----).
-Implement good data management practices.
-  
-Keep in mind the difference between .R & .Rmd
-Keep track of created R objects (See the global environment; use ls()).
-Use glimpse(), str(), dim(), and related functions (class()).
+# Tips for keeping your code organized and avoiding errors
+# Read the documentation!
+#   
+# Know what the functions you use actually do.
+# Read package vignettes.
+# Practice!
+#   
+# The more you engage with R programming the more proficient you will become. With time, handling error messages will become second nature.
+# Keep your code neat and clean. You can do this by following a style guide, for example, the tidyverse style guide.
+# 
+# If you use RStudio, you can use ctrl + shift + A to reformat code.
+# See this resource on Coding Etiquette for styling tips.
+# Include organized code blocks with coding sections (# Name of Section ----).
+# Implement good data management practices.
+#   
+# Keep in mind the difference between .R & .Rmd
+# Keep track of created R objects (See the global environment; use ls()).
+# Use glimpse(), str(), dim(), and related functions (class()).
